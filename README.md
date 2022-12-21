@@ -1,4 +1,4 @@
-<h2>🍁 Hi, I'm Diogo Castro, a 18 year old trying to code 🤷‍♂️</h3>
+<h2>🍁 Hi, I'm Diogo Castro, a 19 year old trying to code 🤷‍♂️</h3>
 
 <h3>📌 GitHub Stats</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
